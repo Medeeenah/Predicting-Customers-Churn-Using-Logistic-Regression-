@@ -1,4 +1,4 @@
-# Predicting-Customers-Churn-Using-Logistic-Regression-
+# Predicting-Customers-Churn-Using-Logistic-Regression
 Predicting bank customers churn with Logistic Regression Model.
 ●	Obtained 10k bank customers data entries from an open-source platform.<br/>
 ●	Preprocessed and Performed EDA on the data to gain insights using python.<br/>
